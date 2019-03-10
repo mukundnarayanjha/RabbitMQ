@@ -1,0 +1,32 @@
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ.deps.json
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ.runtimeconfig.json
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ.runtimeconfig.dev.json
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ.dll
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ.pdb
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ_Consumer.dll
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ_Producer.dll
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ_Consumer.pdb
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ_Producer.pdb
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.csprojAssemblyReference.cache
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.csproj.CoreCompileInputs.cache
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.AssemblyInfoInputs.cache
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.AssemblyInfo.cs
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.csproj.CopyComplete
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.dll
+D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.pdb
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ.deps.json
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ.runtimeconfig.json
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ.runtimeconfig.dev.json
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ.dll
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ.pdb
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ_Consumer.dll
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ_Producer.dll
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ_Consumer.pdb
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ_Producer.pdb
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.csprojAssemblyReference.cache
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.csproj.CoreCompileInputs.cache
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.AssemblyInfoInputs.cache
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.AssemblyInfo.cs
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.csproj.CopyComplete
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.dll
+D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.pdb
