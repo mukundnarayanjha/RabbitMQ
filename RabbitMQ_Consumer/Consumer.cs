@@ -27,18 +27,22 @@ namespace RabbitMQ_Consumer
 
                     channel.QueueBind(queueName, exchangeName, string.Empty);
 
-                    Console.WriteLine("Waiting for messages");
+                    //Console.WriteLine("Waiting for messages");
+                    //var consumer = new EventingBasicConsumer(channel);
+                    //consumer.Received += (model, ea) =>
+                    //{
+                    //    var body = ea.Body;
+                    //    var message = Encoding.UTF8.GetString(body);
+                    //    Console.WriteLine("Received - {0}", message);
+                    //};
+                    //channel.BasicConsume(queue: queueName,
+                    //                     autoAck: true,
+                    //                     consumer: consumer);
 
-                    var consumer = new EventingBasicConsumer(channel);
-                    consumer.Received += (model, ea) =>
-                    {
-                        var body = ea.Body;
-                        var message = Encoding.UTF8.GetString(body);
-                        Console.WriteLine("Received - {0}", message);
-                    };
+                    MessageReceiver messageReceiver = new MessageReceiver(channel);
                     channel.BasicConsume(queue: queueName,
                                          autoAck: true,
-                                         consumer: consumer);
+                                         consumer: messageReceiver);
 
                     Console.ReadLine();
 

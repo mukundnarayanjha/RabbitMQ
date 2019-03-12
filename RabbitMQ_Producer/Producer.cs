@@ -8,7 +8,8 @@ namespace RabbitMQ_Producer
     {
         private const string exchangeName = "HelloWorld_RabbitMQ";
         private const string queueName = "HelloQueue";
-        public static void RabbitMQProducer()
+        private const string routingKeyName = "Hello_Directexchange_key";
+        public static void SendMessage()
         {
             ConnectionFactory factory = new ConnectionFactory { HostName = "localhost", UserName = "guest", Password = "guest", Port = 5672 };
 
@@ -22,13 +23,18 @@ namespace RabbitMQ_Producer
                                  exclusive: false,
                                  autoDelete: false,
                                  arguments: null);
+                   
+                    var properties = channel.CreateBasicProperties();
+                    properties.Persistent = false;
 
                     string message = "Hello World. This is my first RabbitMQ Message";
                     var body = Encoding.UTF8.GetBytes(message);
-                    channel.QueueBind(queueName, exchangeName, string.Empty);
+                    // channel.QueueBind(queueName, exchangeName, string.Empty);
+                    channel.QueueBind(queueName, exchangeName, routingKeyName);
 
                     channel.BasicPublish(exchange: exchangeName,
-                                         routingKey: string.Empty,
+                                        // routingKey: string.Empty,
+                                         routingKey: routingKeyName,
                                          basicProperties: null,
                                          body: body);
                     Console.WriteLine("Message Sent Successfully - {0}", message);

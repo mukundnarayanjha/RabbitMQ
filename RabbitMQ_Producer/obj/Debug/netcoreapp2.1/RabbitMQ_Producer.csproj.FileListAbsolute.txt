@@ -9,7 +9,6 @@ D:\Projects\RabbitMQ\RabbitMQ\RabbitMQ_Producer\obj\Debug\netcoreapp2.1\RabbitMQ
 D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ_Producer\bin\Debug\netcoreapp2.1\RabbitMQ_Producer.deps.json
 D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ_Producer\bin\Debug\netcoreapp2.1\RabbitMQ_Producer.dll
 D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ_Producer\bin\Debug\netcoreapp2.1\RabbitMQ_Producer.pdb
-D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ_Producer\obj\Debug\netcoreapp2.1\RabbitMQ_Producer.csprojAssemblyReference.cache
 D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ_Producer\obj\Debug\netcoreapp2.1\RabbitMQ_Producer.csproj.CoreCompileInputs.cache
 D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ_Producer\obj\Debug\netcoreapp2.1\RabbitMQ_Producer.AssemblyInfoInputs.cache
 D:\Projects\RabbitMQ R&D\RabbitMQ\RabbitMQ_Producer\obj\Debug\netcoreapp2.1\RabbitMQ_Producer.AssemblyInfo.cs

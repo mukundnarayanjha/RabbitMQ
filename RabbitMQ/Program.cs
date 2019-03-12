@@ -7,8 +7,8 @@ namespace RabbitMQ
     {
         static void Main(string[] args)
         {
-            Producer.RabbitMQProducer();
-            //Consumer.RabbitMQConsumer();
+            //Producer.SendMessage();
+            Consumer.RabbitMQConsumer();
         }
     }
 }
